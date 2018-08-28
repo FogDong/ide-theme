@@ -1,5 +1,5 @@
 # ide-theme
-~~### 五彩斑斓的绿了解一下~~
+### ~~五彩斑斓的绿了解一下~~
 
 ### vscode
 ![](http://ok2ra0say.bkt.clouddn.com/CCA836EA04C2141352E000A0E2B90A54.jpg)
